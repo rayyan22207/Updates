@@ -1,0 +1,9 @@
+as yesterday nothing was done therefore skipped
+Today I -
+Completed the UI for the people screen
+Implemented logic to exclude the current user from the displayed user list (user filtering)
+Added a placeholder message for when in case no user exists (empty state handling)
+Added a better UI for the search bar (currently not operational)
+Improved the image selection button on the circle Avatar 
+Added other users to the database
+Created and implemented the Send/Cancel friend requests function
