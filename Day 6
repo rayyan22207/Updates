@@ -1,0 +1,9 @@
+Flutter Chat
+Created the friends screen
+Created the friend Request screen
+Implemented the logic for getting the list of friends/ friend Requests
+Add the logic for seeing which screen the user is in currently 
+THINGS NEEDED TO BE DONE LATER
+Need to implement the logics for accepting/declining requests via request screen
+And to chat/unfriend via friends screen
+Need a better ui all over the app
