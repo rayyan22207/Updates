@@ -1,0 +1,4 @@
+flutter chat
+created the dynamic app bar for the chat screen
+a basic layout of the chatscreen has been made with dummy data
+also created the groupchat dynamic appbar though its not working at the moment as the group model is needed
