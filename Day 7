@@ -7,3 +7,8 @@ added a bottom sheet in the chat text field
 created the Message class
 created the message enum
 and the message enum extension 
+created the chat provider ( still working on )
+created message reply model
+created last message model
+working on sending and receiving messages
+
