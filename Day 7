@@ -4,3 +4,6 @@ a basic layout of the chatscreen has been made with dummy data
 also created the groupchat dynamic appbar though its not working at the moment as the group model is needed
 created the dynamic bottom text field for the chatScreen/group screen
 added a bottom sheet in the chat text field
+created the Message class
+created the message enum
+and the message enum extension 
