@@ -2,4 +2,6 @@ flutter chat mobile
 created the chat list screen
 fixed the date time
 created the last message format to show the chat list screen depending whether you sent a message or they sent it
-  
+
+added the functionality to display messages on the chat screen
+also made it so if the sender is viewing the messages itll be the primary color else itll be card color and for the text itll be opposite senders text color will be card color else primary color 
