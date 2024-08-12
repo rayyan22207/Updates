@@ -13,3 +13,6 @@ improving the ui
 cleaning the code 
 created separate message formats for the sender and reciver
 and a separate message list module 
+
+completed the send/ recive message screen and logic for text based messages
+working on message reply function and displaying the message reply
