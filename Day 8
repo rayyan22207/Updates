@@ -8,3 +8,8 @@ also made it so if the sender is viewing the messages itll be the primary color 
 
 added the grouplistview widget
 set up the functionality for it still working on it tho
+
+improving the ui
+cleaning the code 
+created separate message formats for the sender and reciver
+and a separate message list module 
