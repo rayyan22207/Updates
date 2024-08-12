@@ -19,3 +19,6 @@ working on message reply function and displaying the message reply
 
 completed the swipeleft functionality basically allows the user to swipe left on his or the senders texts
 just need to make the logic for it now to send and recive the replied message
+
+completed the message reply function and sender ui for the message reply aswell as the backend for the senders message reply
+now working on the receivers display to see the replied message
