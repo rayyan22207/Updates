@@ -1,3 +1,6 @@
 https://github.com/rayyan22207/chat_app_dart/tree/master/flutter_chat_pro/lib
 flutter chat app
-completed the isSeen method
+completed the isSeen method:
+    will check if the user has seen the message or not if yes then itll show as a double tick with a blue color else itll show a single tick
+completed the user status method:
+    will tell if the user is online or when was the user last seen
