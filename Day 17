@@ -6,3 +6,6 @@ currently working on the side bar nav and home page
 tried to set up a custom side bar it didnt work
 ill work on that later 
 using a simple bootstrap navbar
+created the tables for the orders list
+deleted the database, needed to edit the id to be the default id being used for orders instead of uuid
+created the database again now setting up some dummy data
