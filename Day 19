@@ -4,3 +4,6 @@ need to work on it
 currently also working on firebase auth with it   
 working on fiebase middleware
 and still setting up firebase in django
+I am currently trying to make my apps data flow like the following:
+    flutter -> firebase realtime -> django then to database
+    when data comes in to django i want it to notify in the admin side real time
